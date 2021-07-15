@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/webpages/nummirock/static/css/main.530186bf.chunk.css",
-    "main.js": "/webpages/nummirock/static/js/main.ad65bb55.chunk.js",
-    "main.js.map": "/webpages/nummirock/static/js/main.ad65bb55.chunk.js.map",
+    "main.js": "/webpages/nummirock/static/js/main.0ab192b7.chunk.js",
+    "main.js.map": "/webpages/nummirock/static/js/main.0ab192b7.chunk.js.map",
     "runtime-main.js": "/webpages/nummirock/static/js/runtime-main.eee539e4.js",
     "runtime-main.js.map": "/webpages/nummirock/static/js/runtime-main.eee539e4.js.map",
     "static/js/2.eea93332.chunk.js": "/webpages/nummirock/static/js/2.eea93332.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.eee539e4.js",
     "static/js/2.eea93332.chunk.js",
     "static/css/main.530186bf.chunk.css",
-    "static/js/main.ad65bb55.chunk.js"
+    "static/js/main.0ab192b7.chunk.js"
   ]
 }
