@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "./static/css/main.530186bf.chunk.css",
-    "main.js": "./static/js/main.b014f0f3.chunk.js",
-    "main.js.map": "./static/js/main.b014f0f3.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.d2109a71.js",
-    "runtime-main.js.map": "./static/js/runtime-main.d2109a71.js.map",
-    "static/js/2.eea93332.chunk.js": "./static/js/2.eea93332.chunk.js",
-    "static/js/2.eea93332.chunk.js.map": "./static/js/2.eea93332.chunk.js.map",
-    "static/js/3.cf61a408.chunk.js": "./static/js/3.cf61a408.chunk.js",
-    "static/js/3.cf61a408.chunk.js.map": "./static/js/3.cf61a408.chunk.js.map",
-    "index.html": "./index.html",
-    "static/css/main.530186bf.chunk.css.map": "./static/css/main.530186bf.chunk.css.map",
-    "static/js/2.eea93332.chunk.js.LICENSE.txt": "./static/js/2.eea93332.chunk.js.LICENSE.txt",
-    "static/media/band_placeholder.f758ac6d.png": "./static/media/band_placeholder.f758ac6d.png",
-    "static/media/news_placeholder.423107b8.md": "./static/media/news_placeholder.423107b8.md"
+    "main.css": "https://tlammi.github.io/webpages/nummirock/static/css/main.530186bf.chunk.css",
+    "main.js": "https://tlammi.github.io/webpages/nummirock/static/js/main.302c67f0.chunk.js",
+    "main.js.map": "https://tlammi.github.io/webpages/nummirock/static/js/main.302c67f0.chunk.js.map",
+    "runtime-main.js": "https://tlammi.github.io/webpages/nummirock/static/js/runtime-main.3df66e0a.js",
+    "runtime-main.js.map": "https://tlammi.github.io/webpages/nummirock/static/js/runtime-main.3df66e0a.js.map",
+    "static/js/2.eea93332.chunk.js": "https://tlammi.github.io/webpages/nummirock/static/js/2.eea93332.chunk.js",
+    "static/js/2.eea93332.chunk.js.map": "https://tlammi.github.io/webpages/nummirock/static/js/2.eea93332.chunk.js.map",
+    "static/js/3.cf61a408.chunk.js": "https://tlammi.github.io/webpages/nummirock/static/js/3.cf61a408.chunk.js",
+    "static/js/3.cf61a408.chunk.js.map": "https://tlammi.github.io/webpages/nummirock/static/js/3.cf61a408.chunk.js.map",
+    "index.html": "https://tlammi.github.io/webpages/nummirock/index.html",
+    "static/css/main.530186bf.chunk.css.map": "https://tlammi.github.io/webpages/nummirock/static/css/main.530186bf.chunk.css.map",
+    "static/js/2.eea93332.chunk.js.LICENSE.txt": "https://tlammi.github.io/webpages/nummirock/static/js/2.eea93332.chunk.js.LICENSE.txt",
+    "static/media/band_placeholder.f758ac6d.png": "https://tlammi.github.io/webpages/nummirock/static/media/band_placeholder.f758ac6d.png",
+    "static/media/news_placeholder.423107b8.md": "https://tlammi.github.io/webpages/nummirock/static/media/news_placeholder.423107b8.md"
   },
   "entrypoints": [
-    "static/js/runtime-main.d2109a71.js",
+    "static/js/runtime-main.3df66e0a.js",
     "static/js/2.eea93332.chunk.js",
     "static/css/main.530186bf.chunk.css",
-    "static/js/main.b014f0f3.chunk.js"
+    "static/js/main.302c67f0.chunk.js"
   ]
 }
