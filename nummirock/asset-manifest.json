@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "https://tlammi.github.io/webpages/nummirock/static/css/main.530186bf.chunk.css",
-    "main.js": "https://tlammi.github.io/webpages/nummirock/static/js/main.302c67f0.chunk.js",
-    "main.js.map": "https://tlammi.github.io/webpages/nummirock/static/js/main.302c67f0.chunk.js.map",
-    "runtime-main.js": "https://tlammi.github.io/webpages/nummirock/static/js/runtime-main.3df66e0a.js",
-    "runtime-main.js.map": "https://tlammi.github.io/webpages/nummirock/static/js/runtime-main.3df66e0a.js.map",
-    "static/js/2.eea93332.chunk.js": "https://tlammi.github.io/webpages/nummirock/static/js/2.eea93332.chunk.js",
-    "static/js/2.eea93332.chunk.js.map": "https://tlammi.github.io/webpages/nummirock/static/js/2.eea93332.chunk.js.map",
-    "static/js/3.cf61a408.chunk.js": "https://tlammi.github.io/webpages/nummirock/static/js/3.cf61a408.chunk.js",
-    "static/js/3.cf61a408.chunk.js.map": "https://tlammi.github.io/webpages/nummirock/static/js/3.cf61a408.chunk.js.map",
-    "index.html": "https://tlammi.github.io/webpages/nummirock/index.html",
-    "static/css/main.530186bf.chunk.css.map": "https://tlammi.github.io/webpages/nummirock/static/css/main.530186bf.chunk.css.map",
-    "static/js/2.eea93332.chunk.js.LICENSE.txt": "https://tlammi.github.io/webpages/nummirock/static/js/2.eea93332.chunk.js.LICENSE.txt",
-    "static/media/band_placeholder.f758ac6d.png": "https://tlammi.github.io/webpages/nummirock/static/media/band_placeholder.f758ac6d.png",
-    "static/media/news_placeholder.423107b8.md": "https://tlammi.github.io/webpages/nummirock/static/media/news_placeholder.423107b8.md"
+    "main.css": "/webpages/nummirock/static/css/main.530186bf.chunk.css",
+    "main.js": "/webpages/nummirock/static/js/main.ad65bb55.chunk.js",
+    "main.js.map": "/webpages/nummirock/static/js/main.ad65bb55.chunk.js.map",
+    "runtime-main.js": "/webpages/nummirock/static/js/runtime-main.eee539e4.js",
+    "runtime-main.js.map": "/webpages/nummirock/static/js/runtime-main.eee539e4.js.map",
+    "static/js/2.eea93332.chunk.js": "/webpages/nummirock/static/js/2.eea93332.chunk.js",
+    "static/js/2.eea93332.chunk.js.map": "/webpages/nummirock/static/js/2.eea93332.chunk.js.map",
+    "static/js/3.cf61a408.chunk.js": "/webpages/nummirock/static/js/3.cf61a408.chunk.js",
+    "static/js/3.cf61a408.chunk.js.map": "/webpages/nummirock/static/js/3.cf61a408.chunk.js.map",
+    "index.html": "/webpages/nummirock/index.html",
+    "static/css/main.530186bf.chunk.css.map": "/webpages/nummirock/static/css/main.530186bf.chunk.css.map",
+    "static/js/2.eea93332.chunk.js.LICENSE.txt": "/webpages/nummirock/static/js/2.eea93332.chunk.js.LICENSE.txt",
+    "static/media/band_placeholder.f758ac6d.png": "/webpages/nummirock/static/media/band_placeholder.f758ac6d.png",
+    "static/media/news_placeholder.423107b8.md": "/webpages/nummirock/static/media/news_placeholder.423107b8.md"
   },
   "entrypoints": [
-    "static/js/runtime-main.3df66e0a.js",
+    "static/js/runtime-main.eee539e4.js",
     "static/js/2.eea93332.chunk.js",
     "static/css/main.530186bf.chunk.css",
-    "static/js/main.302c67f0.chunk.js"
+    "static/js/main.ad65bb55.chunk.js"
   ]
 }
