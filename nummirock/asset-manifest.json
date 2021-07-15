@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/webpages/nummirock/static/css/main.530186bf.chunk.css",
-    "main.js": "/webpages/nummirock/static/js/main.0ab192b7.chunk.js",
-    "main.js.map": "/webpages/nummirock/static/js/main.0ab192b7.chunk.js.map",
-    "runtime-main.js": "/webpages/nummirock/static/js/runtime-main.eee539e4.js",
-    "runtime-main.js.map": "/webpages/nummirock/static/js/runtime-main.eee539e4.js.map",
-    "static/js/2.eea93332.chunk.js": "/webpages/nummirock/static/js/2.eea93332.chunk.js",
-    "static/js/2.eea93332.chunk.js.map": "/webpages/nummirock/static/js/2.eea93332.chunk.js.map",
-    "static/js/3.cf61a408.chunk.js": "/webpages/nummirock/static/js/3.cf61a408.chunk.js",
-    "static/js/3.cf61a408.chunk.js.map": "/webpages/nummirock/static/js/3.cf61a408.chunk.js.map",
-    "index.html": "/webpages/nummirock/index.html",
-    "static/css/main.530186bf.chunk.css.map": "/webpages/nummirock/static/css/main.530186bf.chunk.css.map",
-    "static/js/2.eea93332.chunk.js.LICENSE.txt": "/webpages/nummirock/static/js/2.eea93332.chunk.js.LICENSE.txt",
-    "static/media/band_placeholder.f758ac6d.png": "/webpages/nummirock/static/media/band_placeholder.f758ac6d.png",
-    "static/media/news_placeholder.423107b8.md": "/webpages/nummirock/static/media/news_placeholder.423107b8.md"
+    "main.css": "./static/css/main.530186bf.chunk.css",
+    "main.js": "./static/js/main.d7c00c1c.chunk.js",
+    "main.js.map": "./static/js/main.d7c00c1c.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.2d883a6c.js",
+    "runtime-main.js.map": "./static/js/runtime-main.2d883a6c.js.map",
+    "static/js/2.89954ba5.chunk.js": "./static/js/2.89954ba5.chunk.js",
+    "static/js/2.89954ba5.chunk.js.map": "./static/js/2.89954ba5.chunk.js.map",
+    "static/js/3.e8c45c50.chunk.js": "./static/js/3.e8c45c50.chunk.js",
+    "static/js/3.e8c45c50.chunk.js.map": "./static/js/3.e8c45c50.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.530186bf.chunk.css.map": "./static/css/main.530186bf.chunk.css.map",
+    "static/js/2.89954ba5.chunk.js.LICENSE.txt": "./static/js/2.89954ba5.chunk.js.LICENSE.txt",
+    "static/media/band_placeholder.f758ac6d.png": "./static/media/band_placeholder.f758ac6d.png",
+    "static/media/news_placeholder.423107b8.md": "./static/media/news_placeholder.423107b8.md"
   },
   "entrypoints": [
-    "static/js/runtime-main.eee539e4.js",
-    "static/js/2.eea93332.chunk.js",
+    "static/js/runtime-main.2d883a6c.js",
+    "static/js/2.89954ba5.chunk.js",
     "static/css/main.530186bf.chunk.css",
-    "static/js/main.0ab192b7.chunk.js"
+    "static/js/main.d7c00c1c.chunk.js"
   ]
 }
